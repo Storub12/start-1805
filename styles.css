@@ -1,0 +1,24 @@
+head {
+    width: 400px;
+    height: 600px;
+    
+}
+body {
+    width: 400px;
+    height: 600px;
+    
+}
+
+.first {
+    margin-top: 100px;
+    padding: 20px;
+    background-color: greenyellow;
+}
+div {
+   margin-right: 50px;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: greenyellow;
+    }
+
+   
